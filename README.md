@@ -1,89 +1,125 @@
 <h1 align="center">Hi 👋, I'm Ahmed Farag</h1>
 
-<h3 align="center">Data Scientist | Machine Learning Engineer | AI Enthusiast</h3>
+<h3 align="center">
+Data Scientist • Machine Learning Engineer • AI Enthusiast
+</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Fresh Computer Science Graduate
-- 🤖 Passionate about Machine Learning and Data Science
-- 🏠 Developer of Property Hub AI
-- 🌱 Currently learning Power BI and Advanced Machine Learning
-- 💼 Open to Full-Time and Freelance Opportunities
+🎓 Fresh Computer & Data Science Graduate passionate about building intelligent systems using Machine Learning and Data Analytics.
+
+💡 I enjoy solving real-world problems with data, developing predictive models, and building scalable AI-powered applications.
+
+🚀 Currently improving my skills in Machine Learning, Data Science, Power BI, and MLOps while building production-ready projects.
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Technical Skills
 
-**Languages**
-
+### 💻 Programming Languages
 - Python
+- SQL
 - JavaScript
 - HTML5
 - CSS3
-- SQL
-- c
-- R
-  
 
-**Frameworks**
+---
 
-- FastAPI
+### 📊 Data Science
 
-**Machine Learning**
+- Data Cleaning
+- Data Wrangling
+- Data Preprocessing
+- Feature Engineering
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Statistical Analysis
+- Model Evaluation
+
+---
+
+### 🤖 Machine Learning
+
+- Regression
+- Classification
+- Recommendation Systems
+- Model Training
+- Hyperparameter Tuning
+- Cross Validation
+- Feature Selection
+- Pipeline Building
+
+---
+
+### 📚 Machine Learning Libraries
 
 - Scikit-learn
 - LightGBM
 - Pandas
 - NumPy
-  
-**Database**
+- Matplotlib
+- Plotly
+
+---
+
+### 🗄️ Databases
 
 - MySQL
 
-**Tools**
+---
+
+### ⚡ Backend
+
+- FastAPI
+- REST APIs
+- JWT Authentication
+
+---
+
+### 📈 Data Analytics
+
+- Power BI 
+- Microsoft Excel
+
+---
+
+### 🛠️ Tools
 
 - Git
 - GitHub
 - VS Code
 - Postman
+- Jupyter Notebook
 
 ---
 
-## ⭐ Featured Project
+## 🚀 Featured Project
 
 ### 🏠 Property Hub AI
 
-An AI-powered real estate platform featuring:
+An AI-powered Real Estate Platform featuring:
 
-- Intelligent Property Recommendation System
+- Smart Property Recommendation System
 - Property Price Prediction
+- Machine Learning Models
 - Analytics Dashboard
 - FastAPI REST APIs
 - MySQL Database
-- Machine Learning Models
+- User Behavior Analysis
 
 🔗 https://github.com/AhmedFarag555/Property-Hub-AI
 
 ---
 
-## 🎯 Current Goals
 
-- Build more Machine Learning projects
-- Master Data Science
-- Learn Deep Learning
-- Start Freelancing
-- Contribute to Open Source
+## 📫 Connect With Me
 
----
+📧 Email: af0112651@email.com
 
-## 📫 Contact
-
-- 📧 Email: af0112651@email.com
-- 💻 GitHub: https://github.com/AhmedFarag555
+💻 GitHub: https://github.com/AhmedFarag555
 
 ---
 
-⭐ Thanks for visiting my profile!
-
+⭐ Always learning, building, and improving.
