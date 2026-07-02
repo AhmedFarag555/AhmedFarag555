@@ -118,6 +118,8 @@ An AI-powered Real Estate Platform featuring:
 
 📧 Email: af0112651@email.com
 
+LinkedIn: https://www.linkedin.com/in/ahmed-farag-89331a264
+
 💻 GitHub: https://github.com/AhmedFarag555
 
 ---
